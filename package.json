@@ -1,6 +1,6 @@
 {
   "name": "portadi-backup",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Backup all accounts into data folder as json files",
   "main": "lib/index.js",
   "author": "Ladislav Prskavec <ladislav@prskavec.net>",
